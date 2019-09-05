@@ -51,7 +51,7 @@ const About = () => {
 
 const Union = () => {
   return (
-      <TextImage text={["Come celebrate our union at the Green Cross Dispensary,","on Sept. 3, 2030, doors open 6pm.","And if that's not enough for you..."]} width="20%" file="cake.svg" to="/arrival"/>
+      <TextImage text={["Come celebrate our union at the Green Cross Dispensary,","on Sept. 3, 2030, doors open 6pm.","And if that's not enough for ya..."]} width="20%" file="cake.svg" to="/arrival"/>
   );
 }
 
